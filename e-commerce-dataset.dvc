@@ -1,6 +1,6 @@
 outs:
-- md5: cc2b2ca480da5d3040cfc34f90d32906.dir
-  size: 440462
+- md5: 8ca992caa79233b826d544d7b48f8526.dir
+  size: 374568
   nfiles: 1
   hash: md5
   path: e-commerce-dataset
