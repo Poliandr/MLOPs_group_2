@@ -38,3 +38,23 @@ def test_check_missing_values():
     Test the check_missing_values function
     """
     assert check_missing_values(df) == 0
+
+def check_max_values(df):
+    max_values = df.max()
+    assert all(max_values <= 100)  # Проверяем, что все максимальные значения не превышают 100
+
+def test_check_max_values():
+    check_max_values(df)
+
+def check_min_values(df):
+    min_values = df.min()
+    assert all(min_values >= 0)  # Проверяем, что все минимальные значения больше или равны 0
+
+def test_check_min_values():
+    check_min_values(df)
+
+def check_data_types(df):
+    assert df.dtypes.all()  # Проверяем, что все столбцы имеют одинаковый тип данных
+
+def test_check_data_types():
+    check_data_types(df)
