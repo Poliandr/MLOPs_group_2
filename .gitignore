@@ -2,3 +2,4 @@
 kaggle.json
 venv/
 __pycache__/
+model.joblib
