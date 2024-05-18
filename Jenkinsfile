@@ -29,6 +29,12 @@ pipeline {
                 '''
             }
         }
+        stage('Deploy Application') {
+            steps {
+                sh 'uvicorn main:app --port 8888
+            }
+        
+        }
     }
     post('Always run') {
         always {
