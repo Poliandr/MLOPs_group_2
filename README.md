@@ -8,7 +8,7 @@ Repository of team №2 as final project for MLOps.
 
 ----------------
 
- In order to remote the repository you should use ID_FOLDER
+ In order to remote the repository you should use 'ID_FOLDER'
  
     18aBRTpFRJMBK-ngecXdbx91aPD2f0Emg
     
