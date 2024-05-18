@@ -5,6 +5,7 @@ Repository of team №2 as final project for MLOps.
 Members of team: 
 
 Aleksei Izmalkin
+<br />
 Denis Melnikov
 Danila Moiseev
 Alexander Duplin
