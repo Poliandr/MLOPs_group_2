@@ -20,10 +20,11 @@ Semen Kaunov
 
 
 **Logistic regression** is used in this model. 
-The predicted parameter reflects information about whether the ordered goods will be delivered to the customer on time or not.
+The predicted parameter reflects information about whether the ordered goods will be delivered to the customer **on time or not**.
 
 ----------------
 
+<br />
 [Link to the dataset on Kaggle](https://www.kaggle.com/datasets/poojakeer/e-commerce-dataset)
 
 ----------------
