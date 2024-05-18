@@ -31,7 +31,7 @@ pipeline {
         }
         stage('Deploy Application') {
             steps {
-                sh 'uvicorn main:app --port 8888
+                sh 'uvicorn main:app --port 8888'
             }
         
         }
