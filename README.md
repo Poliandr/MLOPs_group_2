@@ -6,10 +6,9 @@ Repository of team №2 as final project for MLOps.
 
 [Link to the dataset on Kaggle](https://www.kaggle.com/datasets/poojakeer/e-commerce-dataset)
 
-3. Запускаем контейнер.
 ----------------
 
-    docker run --name container_name -p 8000:8000 image_name
+    In order to remote the repository you should use ID_FOLDER=18aBRTpFRJMBK-ngecXdbx91aPD2f0Emg
 
 4. Получаем ссылку в терминале.
 ----------------------
