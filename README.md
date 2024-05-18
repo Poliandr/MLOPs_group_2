@@ -6,7 +6,11 @@ Repository of team №2 as final project for MLOps.
 
 [Link to the dataset on Kaggle](https://www.kaggle.com/datasets/poojakeer/e-commerce-dataset)
 
+<br />
+
 ----------------
+
+<br />
 
  In order to remote the repository you should use **ID_FOLDER**:
  
