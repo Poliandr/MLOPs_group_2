@@ -30,9 +30,3 @@ async def root(item: Item):
     return {"message": result}
 
 # to run application: uvicorn main:app --port 8888
-
-
-
-
-
-# to run the application: uvicorn main:app --port 8888

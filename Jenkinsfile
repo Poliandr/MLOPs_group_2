@@ -25,7 +25,7 @@ pipeline {
             steps {
                 sh '''
                 pwd
-                pytest test_datasets.py
+                pytest test_dataset.py
                 '''
             }
         }
