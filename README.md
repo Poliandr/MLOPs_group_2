@@ -18,6 +18,8 @@ Repository of team №2 as final project for MLOps.
 
 ----------------
 
+<br />
+
 To run the docker you need to use the **command below**:
 
 
