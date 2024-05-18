@@ -2,7 +2,7 @@
 
 Repository of team №2 as final project for MLOps.
 
-----------------
+<space>
 
 [Link to the dataset on Kaggle](https://www.kaggle.com/datasets/poojakeer/e-commerce-dataset)
 
