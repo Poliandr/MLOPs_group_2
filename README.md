@@ -8,7 +8,7 @@ Repository of team №2 as final project for MLOps.
 
 ----------------
 
- In order to remote the repository you should use **ID_FOLDER**
+ In order to remote the repository you should use **ID_FOLDER**:
  
     18aBRTpFRJMBK-ngecXdbx91aPD2f0Emg
     
@@ -16,7 +16,7 @@ Repository of team №2 as final project for MLOps.
 
 ----------------
 
-4. Получаем ссылку в терминале.
-----------------------
+To run the docker you need to use the command below:
+
 
     Uvicorn running on http://0.0.0.0:8000
