@@ -7,9 +7,13 @@ Members of team:
 Aleksei Izmalkin
 <br />
 Denis Melnikov
+<br />
 Danila Moiseev
+<br />
 Alexander Duplin
+<br />
 Ivan Kazarin
+<br />
 Semen Kaunov
 
 
