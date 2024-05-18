@@ -1,8 +1,8 @@
 # MLOPs_group_2.
 
-----------------
-
 Repository of team №2 as final project for MLOps.
+
+----------------
 
 [link to the dataset on Kaggle](https://www.kaggle.com/datasets/poojakeer/e-commerce-dataset)
 
