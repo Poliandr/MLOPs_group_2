@@ -16,7 +16,7 @@ Repository of team №2 as final project for MLOps.
 
 ----------------
 
-To run the docker you need to use the command below:
+To run the docker you need to use the **command below**:
 
 
     sh ''' docker run -d --rm --name jen -v jenkins:/var/jenkins_home/data -p 80:8080 -p 88:8888 -p 50000:50000 jenkins:v1 '''
