@@ -8,7 +8,8 @@ Repository of team №2 as final project for MLOps.
 
 ----------------
 
-    In order to remote the repository you should use ID_FOLDER=18aBRTpFRJMBK-ngecXdbx91aPD2f0Emg
+ In order to remote the repository you should use ID_FOLDER
+    18aBRTpFRJMBK-ngecXdbx91aPD2f0Emg
     
 [Link to the directory on Google Drive for dvc](https://drive.google.com/drive/folders/18aBRTpFRJMBK-ngecXdbx91aPD2f0Emg?usp=sharing)
 
