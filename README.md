@@ -1,6 +1,6 @@
 # MLOPs_group_2.
 
-Repository of team №2 as final project for MLops.
+Repository of team №2 as final project for MLOps.
 
 
 ---------------------
