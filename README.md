@@ -2,8 +2,6 @@
 
 Repository of team №2 as final project for MLOps.
 
-<br />
-
 ## Members of team: ##
 
 Aleksei Izmalkin
@@ -28,6 +26,7 @@ The predicted parameter reflects information about whether the ordered goods wil
 <br />
 
 [Link to the dataset on Kaggle](https://www.kaggle.com/datasets/poojakeer/e-commerce-dataset)
+<br />
 <br />
 The pipeline runs data validation tests in the dataframe for compliance with the requirements of the model (test_dataset.py).
 
