@@ -2,9 +2,9 @@
 
 <br />
 
-Repository of team №2 as final project for MLOps.
+Repository of team №2 as final project for MLOps (1 course).
 
-Members of team: 
+**Members of team:**
 
 Aleksei Izmalkin
 <br />
