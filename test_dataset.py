@@ -3,6 +3,20 @@ import pandas as pd # Importing the pandas library to work with the tabular data
 
 df = pd.read_csv('./e-commerce-dataset/Train.csv') # Load the dataset into a pandas dataframe
 
+def check_data_types(df):
+    """
+    Check the column data type
+    """
+    return df.dtypes.apply(lambda x: x.name).to_dict()
+
+def test_numeric_columns():
+    """
+    Testing dataframe columns for MinMaxScaler
+    """
+    columns_list = ['Customer_care_calls', 'Customer_rating', 'Cost_of_the_Product', 'Prior_purchases', 'Discount_offered', 'Weight_in_gms']
+    columns_dict = check_data_types(df)
+    assert all(columns_dict[column] == 'int64' for column in columns_list)
+    
 def check_column_names(df):
     """
     Check if the 'ID' column is not present in the dataset
