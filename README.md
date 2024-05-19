@@ -1,5 +1,12 @@
 # MLOPs_group_2
 
+
+<br />
+
+Repository of team №2 as final project for MLOps (1 course).  
+
+**Members of team:**
+
 Aleksei Izmalkin
 <br />
 Denis Melnikov
