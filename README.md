@@ -44,7 +44,8 @@ The pipeline runs data validation tests in the dataframe for compliance with the
 
 <br />
 
-The project is a machine learning pipeline of a data product implemented as a docker image. To run the docker you need to use the **command below**:
+The project is a machine learning pipeline of a data product implemented as a docker image.
+To run the docker you need to use the **command below**:
 
 
     sh ''' docker run -d --rm --name jen -v jenkins:/var/jenkins_home/data -p 80:8080 -p 88:8888 -p 50000:50000 jenkins:v1 '''
