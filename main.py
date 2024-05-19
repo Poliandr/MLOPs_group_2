@@ -29,4 +29,4 @@ async def root(item: Item):
     result = "product hasn't reached on time" if model.predict(X) == 1 else "product has reached on time"
     return {"message": result}
 
-# to run application: uvicorn main:app --port 8888
+# to run application locally: uvicorn main:app --port 8888
