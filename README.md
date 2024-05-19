@@ -3,7 +3,7 @@
 
 <br />
 
-Repository of team №2 as final project for MLOps (1 course).
+Repository of team №2 as final project for MLOps (1 course).  
 
 **Members of team:**
 
